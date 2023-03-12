@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Abdulganiyu001](github.com/Abdulganiyu001)
 
-- 💬 Ask me about **jQuery,JavaScript,PHP/MYSQL**
+- 💬 Ask me about **JavaScript,PHP/MYSQL**
 
 - 📫 How to reach me **Abdulrahimabdulganiyu1@gmail.com**
 
